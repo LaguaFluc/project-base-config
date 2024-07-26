@@ -1,0 +1,13 @@
+foo: 1
+bar: 2
+
+
+database:
+  host: localhost
+  port: 3306
+  user: user
+  password: password
+
+logging:
+  level: DEBUG
+  file: app.log
